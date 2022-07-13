@@ -1,5 +1,6 @@
 # Login2Xplore
-###Mini project
+
+Mini project
 
 [Documentation Link](http://login2explore.com/jpdb/docs.html)
 
